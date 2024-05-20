@@ -17,8 +17,7 @@ public class AuthorSolution {
                     index++;
                     break;
                 case 'd':
-                    if (index > 0)
-                        index--;
+                    index--;
                     break;
                 case 's':
                     index = index * index;
